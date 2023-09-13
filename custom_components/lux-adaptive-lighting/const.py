@@ -1,0 +1,1 @@
+DOMAIN = "lux_adaptive_lighting"

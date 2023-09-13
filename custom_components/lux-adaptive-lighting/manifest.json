@@ -1,0 +1,9 @@
+{
+  "domain": "lux_adaptive_lighting",
+  "name": "Lux Adaptive Lighting",
+  "documentation": "https://github.com/wyvernp/lux_adaptive_lighting",
+  "dependencies": [],
+  "codeowners": ["@your_username"],
+  "requirements": [],
+  "config_flow": true
+}
